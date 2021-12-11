@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about RecoilJS
 - 📫 How to reach me: @kelvinsekx on twitter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 💕 traveling and makig new friends over social media
+- ⚡ Fun fact: I love 💕 adventure and making new friends over social media
