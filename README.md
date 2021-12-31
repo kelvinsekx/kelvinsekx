@@ -1,6 +1,9 @@
 ### Hi there 👋
-
+#### My name is quite long so I prefer you just call me kelvinsekx.
+#### I'm a frontend developer working at Wigxel Corp.
 ✨ _special_ ✨
+
+---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kelvin-ukuejubola-oritsetimeyin-b38858174"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -17,10 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web3, solidity and smart contract...
 - 👯 I’m looking to collaborate on awesome projects majorly around client side and web.
 - 🤔 I’m looking for help with everything web3 
+- 🦮 Open source projects I'm working on
+    - [Open Sauced](https://github.com/open-sauced/hot )
+    - [RecoilJS](https://github.com/facebookexperimental/Recoil )
 - 💬 Ask me about RecoilJS
 - 📫 How to reach me: @utdkelvin on twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love 💕 adventure and making new friends over social media
 
 - 😪 **current struggle**: I'm struggling up to get a new laptop that would cost me <strike> $750 </strike> $1150. I don't mind if
-You send any help. Reach out to me on twitter @utdkelvin
+You send any help. Reach out to me on twitter @utdkelvin if you would love to help out. Thanks in advance.
