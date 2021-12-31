@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love 💕 adventure and making new friends over social media
 
-- 😪 **current struggle**: I'm struggling up to get a new laptop that would cost me $750. I don't mind if
+- 😪 **current struggle**: I'm struggling up to get a new laptop that would cost me <strike> $750 </strike> $1150. I don't mind if
 You send any help. Reach out to me on twitter @utdkelvin
