@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on awesome projects majorly around client side and web.
 - 🤔 I’m looking for help with everything web3 
 - 💬 Ask me about RecoilJS
-- 📫 How to reach me: @kelvinsekx on twitter
+- 📫 How to reach me: @utdkelvin on twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love 💕 adventure and making new friends over social media
 
-- 😪 current struggle: I'm struggling up to get a new laptop. I don't mind if
-You send any help.
+- 😪 **current struggle**: I'm struggling up to get a new laptop that would cost me $750. I don't mind if
+You send any help. Reach out to me on twitter @utdkelvin
