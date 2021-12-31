@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @kelvinsekx on twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love 💕 adventure and making new friends over social media
+
+- 😪 current struggle: I'm struggling up to get a new laptop. I don't mind if
+You send any help.
