@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about RecoilJS
 - 📫 How to reach me: @utdkelvin on twitter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 💕 adventure and making new friends over social media
-
-- 😪 **current struggle**: I'm struggling up to get a new laptop that would cost me <strike> $750 </strike> $1150. I don't mind if
-You send any help. Reach out to me on twitter @utdkelvin if you would love to help out. Thanks in advance.
+- ⚡ Fun fact: I love 💕 adventures and making new friends over social media
