@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is quite long so I prefer you just call me kelvinsekx.
-#### I'm a frontend developer working at Wigxel Corp.
+#### I do software, product and community.
 ✨ _special_ ✨
 
 ---
